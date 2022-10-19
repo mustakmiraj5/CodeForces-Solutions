@@ -1,7 +1,6 @@
 // 1709A. Three Doors
 #include<bits/stdc++.h>
 using namespace std;
-
 int main(){
     int t,x,a,b,c;
     cin>>t;
